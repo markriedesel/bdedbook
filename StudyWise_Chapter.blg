@@ -1,0 +1,46 @@
+This is BibTeX, Version 0.99d (TeX Live 2015)
+Capacity: max_strings=35307, hash_size=35307, hash_prime=30011
+The top-level auxiliary file: StudyWise_Chapter.aux
+The style file: splncs03.bst
+Database file #1: studywise_references.bib
+You've used 19 entries,
+            2785 wiz_defined-function locations,
+            717 strings with 8305 characters,
+and the built_in function-call counts, 10845 in all, are:
+= -- 874
+> -- 323
+< -- 19
++ -- 133
+- -- 111
+* -- 671
+:= -- 1370
+add.period$ -- 26
+call.type$ -- 19
+change.case$ -- 119
+chr.to.int$ -- 0
+cite$ -- 19
+duplicate$ -- 977
+empty$ -- 1002
+format.name$ -- 129
+if$ -- 2414
+int.to.chr$ -- 0
+int.to.str$ -- 19
+missing$ -- 202
+newline$ -- 62
+num.names$ -- 44
+pop$ -- 362
+preamble$ -- 1
+purify$ -- 89
+quote$ -- 0
+skip$ -- 313
+stack$ -- 0
+substring$ -- 612
+swap$ -- 547
+text.length$ -- 19
+text.prefix$ -- 0
+top$ -- 0
+type$ -- 68
+warning$ -- 0
+while$ -- 85
+width$ -- 21
+write$ -- 195

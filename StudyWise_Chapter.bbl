@@ -1,0 +1,104 @@
+\begin{thebibliography}{10}
+\providecommand{\url}[1]{\texttt{#1}}
+\providecommand{\urlprefix}{URL }
+
+\bibitem{Aghababyan2017}
+Aghababyan, A., Lewkow, N., Baker, R.: Exploring the asymmetry of
+  metacognition. In: Proceedings of the Seventh International Learning
+  Analytics; Knowledge Conference. pp. 115--119. LAK '17, ACM, New York, NY,
+  USA (2017)
+
+\bibitem{blume1956}
+Bloom, B.E., Engelhart, M., Furst, E., Hill, W., Krathwohl, D.: Taxonomy of
+  Educational Objectives, Handbook I: The Cognitive Domain. David McKay Co
+  Inc., New York (1956)
+
+\bibitem{stick2014}
+Brown, P.C., Roedinger, H.L., McDaniel, M.A.: make it stick: The Science of
+  Successful Learning. Belknap Press: An Imprint of Harvard University Press,
+  Cambridge, MA (2014)
+
+\bibitem{cepeda2008}
+Cepeda, N.J., Vul, E., Rohrer, D., Wixted, J.T., Pashler, H.: Spacing effects
+  in learning, a temporal ridgeline of optimal retention. Psychological Science
+   19(11),  1095--1102 (2008)
+
+\bibitem{CorbettAnderson1995}
+Corbett, A., Anderson, J.: Knowledge tracing: Modeling the acquisition of
+  procedural knowledge. User Model User-Adapted Interaction  4,  253--278
+  (1994)
+
+\bibitem{ebbinghaus}
+Ebbinghuas, H.: Memory, a contribution to experimental psychology. Dover, New
+  York (1885)
+
+\bibitem{Kam2009}
+Kam, M., Kumar, A., Jain, S., Mathur, A., Canny, J.: Improving literacy in
+  rural india: Cellphone games in an after-school program. In: Proceedings of
+  IEEE/ACM Conference on Information and Communication Technology and
+  Development. IEEE Press, Doha, Qatar (2009)
+
+\bibitem{karpicke2008}
+Karpicke, J., Roediger, H.: The critical importance of retrieval for learning.
+  science. Science  319,  966--968 (2008)
+
+\bibitem{Leitner1972}
+Leitner, S.: So lernt man lernen. Der Weg zum Erfolg (How to learn to learn).
+  Herder, Freiburg (1972)
+
+\bibitem{mozer2016}
+Mozer, M.C., Lindsey, R.V.: Predicting and improving memory retention:
+  Psychological theory matters in the big data era. In: Jones, M. (ed.) Big
+  Data in Cognitive Science. Taylor \& Francis (2016)
+
+\bibitem{Pavlik2009}
+Pavlik, P.~I., J., Cen, H., Koedinger, K.R.: Performance factors analysis -- a
+  new alternative to knowledge tracing. In: Proceedings of the 2009 conference
+  on Artificial Intelligence in Education: Building Learning Systems that Care:
+  From Knowledge Representation to Affective Modelling, pp. 531--538. IOS
+  Press, Amsterdam (2009)
+
+\bibitem{pa2005}
+Pavlik, P.I., Anderson, J.R.: Practice and forgetting effects on vocabulary
+  memory: An activation-based model of the spacing effect. Cognitive Science
+  29,  559--586 (2005)
+
+\bibitem{pa2008}
+Pavlik, P.I., Anderson, J.R.: Using a model to compute the optimal schedule of
+  practice. Journal of Experimental Psychology: Applied  14(2),  101--117
+  (2008)
+
+\bibitem{Pavlik2016}
+Pavlik~Jr., P.I., Kelly, C., Maass, J.K.: Using the mobile fact and concept
+  training system (mofacts). In: Micarelli, A., Stamper, J. (eds.) Proceedings
+  of the 13th International Conference on Intelligent Tutoring Systems, pp.
+  247--253. Springer, Switzerland (2016)
+
+\bibitem{Riedesel2017}
+Riedesel, M.A., Zimmerman, N., Baker, R., Titchener, T., Cooper, J.: Using a
+  model for learning and memory to simulate learner response in spaced
+  practice. In: André, E., Baker, R., Hu, X., Mercedes, M., Rodrigo, T.,
+  du~Boulay, B. (eds.) Artificial Intelligence in Education,18th International
+  Conference, AIED 2017, Wuhan, China, June 28 to July 1, 2017, Proceedings,
+  pp. 644--649. Springer International Publishing (2017)
+
+\bibitem{roediger2006}
+Roediger, H., Karpicke, J.: Test-enhanced learning: Taking memory tests
+  improves long-term retention. Psychological Science  17,  249--255 (2006)
+
+\bibitem{rohrer2007}
+Rohrer, D., Taylor, K.: The shuffling of mathematics problems improves
+  learning. Instructional Science  35,  481--498 (2007)
+
+\bibitem{settles2016}
+Settles, B., Meeder, B.: A trainable spaced repetition model for language
+  learning. In: Proceedings of the 54th Annual Meeting of the Association for
+  Computational Linguistics, pp. 1848--1858. Association for Computational
+  Linguistics, Berlin, Germany (2016)
+
+\bibitem{Tsai2017}
+Tsai, D.B.: Netflix's recommendation ml pipeline using apache spark (2 2017),
+  \url{http://spark-summit.org/east-2017/events/netflixs-recommendation-ml-pipeline-using-apache-spark},
+  talk at Spark Summit East, 2017
+
+\end{thebibliography}
